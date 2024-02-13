@@ -1,7 +1,7 @@
 <template>
     <div class="container">
 <div class="row">
-  <div class="card my-3 mx-1" style="width: 14rem;">
+  <div class="card my-3 mx-1" style="width: 20rem;">
     <img src="@/assets/com.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">{{product.title}}</h5>
@@ -13,7 +13,7 @@
   <button type="button" class="btn btn-success">Sebede gos</button>
     </div>
   </div>
-  <div class="card my-3 mx-1" style="width: 14rem;">
+  <div class="card my-3 mx-1" style="width: 20rem;">
     <img src="@/assets/com.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">{{product.title}}</h5>
@@ -25,7 +25,7 @@
   <button type="button" class="btn btn-success">Sebede gos</button>
     </div>
   </div>
-  <div class="card my-3 mx-1" style="width: 14rem;">
+  <div class="card my-3 mx-1" style="width: 20rem;">
     <img src="@/assets/com.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">{{product.title}}</h5>
